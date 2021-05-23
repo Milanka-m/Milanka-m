@@ -7,6 +7,6 @@
 
 #### Мои контакты
 * :e-mail: lianabir@mail.ru
-* [Telegram](@milana_birulia)
+* :telephone_receiver: Telegram: @milana_birulia
 * [Facebook](https://www.facebook.com/profile.php?id=100000351628871)
 
