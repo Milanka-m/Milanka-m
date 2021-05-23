@@ -5,7 +5,10 @@
 * :bulb: Стараюсь конструктивно справляться с проблемами
 * :rocket: Хочу стать активным участником сильной команды
 
-#### Мои контакты
+#### Мой стек:
+JavaScript, HTML, CSS, React.js, Node.js, Git, Webpack
+
+#### Мои контакты:
 * :e-mail: lianabir@mail.ru
 * :telephone_receiver: Telegram: @milana_birulia
 * [Facebook](https://www.facebook.com/profile.php?id=100000351628871)
