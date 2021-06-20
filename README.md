@@ -6,7 +6,7 @@
 * :rocket: Хочу стать активным участником сильной команды
 
 #### Мой стек:
-JavaScript, HTML5, CSS3, React.js, Node.js, Git, Webpack
+JavaScript, HTML5, CSS3, React.js, Node.js, Exspress.js, Git, Webpack
 
 #### Мои контакты:
 * :e-mail: lianabir@mail.ru
