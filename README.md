@@ -11,5 +11,3 @@ JavaScript, TypeScript, HTML5, CSS3, MUI, React.js, Next.js, Node.js, Exspress.j
 #### Мои контакты:
 * :e-mail: lianabir@mail.ru
 * :telephone_receiver: Telegram: @milana_birulia
-* [Facebook](https://www.facebook.com/profile.php?id=100000351628871)
-
