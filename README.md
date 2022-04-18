@@ -6,7 +6,7 @@
 * :rocket: Хочу стать активным участником сильной команды
 
 #### Мой стек:
-JavaScript, TypeScript, HTML5, CSS3, SCSS, MUI, React.js, Next.js, Node.js, Exspress.js, MongoDB, Git, БЭМ
+JavaScript, TypeScript, HTML5, CSS3, SCSS, MUI, React.js, Next.js, Node.js, Exspress.js, API Strapi, MongoDB, Git, БЭМ
 
 #### Мои контакты:
 * :e-mail: lianabir@mail.ru
