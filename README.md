@@ -9,8 +9,8 @@
 #### Мой стек:
 JavaScript, TypeScript, HTML5, CSS3, SCSS, MUI, React.js, Next.js, Node.js, Exspress.js, CMS Strapi, MongoDB, Git, БЭМ
 
+#### Активность на GitLab, работа в РуНетСофт
 <img alt="profile-gitlab" src="https://github.com/Milanka-m/images/blob/main/profile-gitlab.jpg"/>
-Активность на GitLab, работа в РуНетСофт
 
 #### Мои контакты:
 * :e-mail: lianabir@mail.ru
