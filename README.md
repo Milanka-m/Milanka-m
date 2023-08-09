@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет+всем,+меня+зовут+Милана!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%#428bca&lines=Привет+всем,+меня+зовут+Милана!+👋)](https://git.io/typing-svg)
 
 * :green_heart: Люблю писать код и анализировать результаты его работы
 * :memo: Стремлюсь писать чистый и читабельный код
