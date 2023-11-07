@@ -21,7 +21,7 @@ JavaScript, TypeScript, HTML5, CSS3, SCSS, React.js, Next.js, Node.js, Exspress.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 
-#### Активность на GitLab, работа в РуНетСофт
+#### Активность на GitLab
 <img alt="profile-gitlab" src="https://github.com/Milanka-m/images/blob/main/profile-gitlab.jpg"/>
 
 #### Мои контакты:
